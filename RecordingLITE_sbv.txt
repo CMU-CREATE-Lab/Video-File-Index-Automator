@@ -1,0 +1,34 @@
+0:00:03.250,0:00:07.750
+Can we just start you sharing you name a position?
+
+0:00:07.750,0:00:14.700
+My name is randy sergeant and I’m a researcher
+at the CMU create lab.
+
+0:00:14.700,0:00:19.500
+Could you tell us a little bit about how you
+work in ai?
+
+0:00:19.500,0:00:25.550
+Yeah so it happened kind of gradually I was
+really interested in the idea of building
+
+0:00:25.550,0:00:32.340
+a robot in junior high and high school and
+started trying different kinds of aspects
+
+0:00:32.340,0:00:39.710
+of that the micro computer revolution happened
+when I was in high school so I got good at the software
+
+0:00:39.710,0:00:43.620
+side of things and then Lego started coming
+out with gears so I started like building
+
+0:00:43.620,0:00:48.530
+those two pieces separately like I would build
+mechanical things that could walk but I didn’t
+
+0:00:48.530,0:00:53.760
+manage to connect those two until later when
+I was an undergraduate.
