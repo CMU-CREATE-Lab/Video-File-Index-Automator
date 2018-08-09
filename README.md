@@ -20,7 +20,6 @@ The main program for this project is GetIndex.java.
 Compile the program using:
 ```
 javac GetIndex.java
-
 ```
 
 ## Running the project
@@ -30,7 +29,6 @@ You can run this project in 2 ways.
 This is the first way to run it. Enter in three arguments as such: 
 ```
 java GetIndex <video text file to read through> <type of video file> <text file with user-inputed words>
-
 ```
 The first argument is a .txt version of a video transcription file. This program supports 3 types of video files, which
 includes SBV, SRT, and VTT files. 
@@ -47,7 +45,6 @@ argument.
 
 ```
 java GetIndex <video text file to read through> <type of video file>
-
 ```
 The program will then ask you to list all the words you wish to find on the console itself.
 
@@ -65,12 +62,11 @@ java GetIndex RecordingLITE_sbv.txt sbv fileWithWords.txt
 java GetIndex RecordingLITE_srt.txt srt fileWithWords.txt
 
 java GetIndex RecordingLITE_vtt.txt vtt fileWithWords.txt
-
 ```
 
 ## Authors
 
-* **Mohit Jain** - *Initial work* - [zaxway](https://github.com/zaxway)
+* **Mohit Jain** - [zaxway](https://github.com/zaxway)
 
 ## Any Questions, Bug Reports, or Further Improvements?
 
